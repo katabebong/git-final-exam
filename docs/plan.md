@@ -17,3 +17,5 @@
 - Học Git stash
 - Thực hành apply stash
 - Chuẩn bị báo cáo cuối kỳ
+- Học thêm nhánh nâng cao
+- Ôn tập GitHub flow

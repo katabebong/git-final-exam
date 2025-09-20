@@ -14,3 +14,6 @@
 8. Ôn tập lý thuyết để chuẩn bị thi.
 9. Làm bài tập lớn nhóm với GitHub.
 10. Tổng kết, review toàn bộ kiến thức.
+- Học Git stash
+- Thực hành apply stash
+- Chuẩn bị báo cáo cuối kỳ

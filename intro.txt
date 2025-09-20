@@ -1,4 +1,7 @@
-Hello, this is Trần Vĩnh Phúc
+Hello, this is <Họ Tên>.
+Xin chào, tôi là <Họ Tên>.
+Conflict resolved on 20/09/2025.
+
 Kỹ năng: Git, Python, Giao tiếp
 Kế hoạch học tập:
 - Hoàn thành khóa học Git trong 1 tuần.

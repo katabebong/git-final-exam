@@ -1,0 +1,6 @@
+Tính năng: Hệ thống thông báo email
+1. Người dùng nhận email khi đăng ký tài khoản.
+2. Gửi email xác nhận khi đổi mật khẩu.
+3. Thông báo khi có tin nhắn mới.
+4. Cho phép bật/tắt email trong phần cài đặt.
+5. Log lại toàn bộ email đã gửi.

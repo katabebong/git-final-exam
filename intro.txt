@@ -1,9 +1,0 @@
-Sở thích: Nghe nhạc , đá banh , ca hát
-Kỹ năng: Git, Python, Giao tiếp
-Kế hoạch học tập:
-- Hoàn thành khóa học Git trong 1 tuần.
-- Luyện tập 30 phút mỗi ngày với GitHub.
-- Tham gia dự án nhóm để áp dụng Git.
-- Tìm hiểu CI/CD cơ bản.
-- Ôn tập thêm về Git branching và merge
-
